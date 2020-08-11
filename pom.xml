@@ -87,14 +87,6 @@
                         <version>1.9.2</version>
                     </dependency>
                 </dependencies>
-<!--                <configuration>-->
-<!--                    -->
-<!--                    <properties>-->
-<!--                        <configurationParameters>-->
-<!--                            junit.jupiter.extensions.autodetection.enabled = true-->
-<!--                        </configurationParameters>-->
-<!--                    </properties>-->
-<!--                </configuration>-->
             </plugin>
         </plugins>
     </build>
